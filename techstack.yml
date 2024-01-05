@@ -1,7 +1,8 @@
 repo_name: AntonyJudeShaman/horcrux
 report_id: ca3bebc33294664712034aa873d5fee5
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-12T13:20:45+00:00'
+timestamp: '2024-01-05T08:25:13+00:00'
 requested_by: jesseduffield
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/AntonyJudeShaman/horcrux
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -26,6 +28,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/AntonyJudeShaman/horcrux/blob/master/example/diary.txt
   detection_source: example/diary.txt
   last_updated_by: Jesse Duffield
   last_updated_on: 2020-01-02 06:26:26.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AntonyJudeShaman/horcrux
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/AntonyJudeShaman/horcrux/blob/master/.github/workflows/cd.yml
   detection_source: ".github/workflows/cd.yml"
   last_updated_by: Jesse Duffield
   last_updated_on: 2020-08-02 03:39:11.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/AntonyJudeShaman/horcrux/blob/master/example/diary.txt
   detection_source: example/diary.txt
   last_updated_by: Jesse Duffield
   last_updated_on: 2020-01-02 06:26:26.000000000 Z
